@@ -19,7 +19,7 @@ int main()
     carList.push_back(car2);
     carList.push_back(car3);
 
-    //tulostetaan listan Toinen auto
+    //tulostetaan listan toinen auto
     carList[1].printData();
     
     //tulostetaan autojen tiedot (printData)
