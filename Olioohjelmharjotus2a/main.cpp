@@ -43,7 +43,7 @@ int main() {
 
 
 
-    // Create a shared pointer to the Student object
+    //luodaan Smart poiter
     unique_ptr<Student> student = make_unique<Student>();
 
     student->setName("Matti Meikäkäinen");
