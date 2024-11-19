@@ -4,8 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp \
-        person.cpp
+        chef.cpp \
+        italianchef.cpp \
+        main.cpp
 
 HEADERS += \
-    person.h
+    chef.h \
+    italianchef.h
